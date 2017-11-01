@@ -11,7 +11,7 @@ npm install
 
 # run dev-server:
 npm run dev
-# open the http://loaclhost:8080
+# open the http://loaclhost:9300
 
 # build
 npm run build
